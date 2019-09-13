@@ -101,7 +101,11 @@ venv.bak/
 /site
 
 # mypy
+
+
+# ref/
 .mypy_cache/
 
 
 *.iml
+/ref/
