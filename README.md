@@ -1,3 +1,9 @@
+Machine learning course material
+================================
+
+This material is aimed for the basic learning of machine learning concepts with hands-on exercises.
+
+
 ### Enabling R and R-irkernel
 Install R base
 ```shell script
@@ -25,6 +31,3 @@ Create spark containers
 $ cd scripts
 $ ./create_spark.sh
 ```
-
-<url>/hub/user-redirect/
-git-pull?repo=https://github.com/Joonalai/test-notebooks&branch=master&subPath=test-r.ipynb&app=notebook
