@@ -1,6 +1,6 @@
 scikit-learn==0.21.3
 pandas==0.25.1
-tensorflow==2.0.0.rc1
+tensorflow==2.5.3
 matplotlib==2.2.2
 numpy==1.17.2
 imbalanced-learn==0.5.0
